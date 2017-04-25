@@ -19,6 +19,11 @@ $ git clone https://github.com/meanstack-io/service-provider-starter.git yourPro
 $ cd yourProjectName && cp .env-example.js .env.js
 ```
 
+* Run.
+```sh
+$ npm start
+```
+
 # Service Provider
 Service Provider are the central place of your application.
 
